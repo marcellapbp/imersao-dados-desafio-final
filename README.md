@@ -1,7 +1,7 @@
 
 # Desafio Final Imersão Dados
 
-**Olá, Seja bem-vindo(a)! Eu sou Marcella Pedro,!**
+**Olá, Seja bem-vindo(a)! Eu sou Marcella Pedro,**
 
 me formei em Ciência da Computação pelo Unasp em 2017, venho atuando na área de TI desde 2014 e atualmente sou Analista de Sistemas Pleno na Grandvision by Fototica. Desde o final de 2019 me interessei por Ciência de Dados e com o advento da pandemia, o home office possibilitou que eu tivesse mais tempo para me aprofundar nessa área, não posso deixar de destacar que a Alura foi um grande motivador durante esse processo de aprendizagem.
 
